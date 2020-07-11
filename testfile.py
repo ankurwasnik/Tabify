@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author:Aztec Acer Aspire E 15
+@author:Aztec Acer Aspire E 15 Ankur Wasnik
 """
 
 from tkinter import *
